@@ -93,3 +93,28 @@ header nav ul li a {
     display: block;
     margin-right: 20px;
 }
+
+#hero-image {
+    height: 580px;
+    padding-top: 1px;
+    background: #e8eced url('../images/hero.jpg') no-repeat center;
+}
+#hero-image h2 {
+    margin: 180px 0 40px 0;
+}
+.button-1 {
+    display: block;
+    text-align: center;
+    background: #444;
+    border-radius: 3px;
+    color: #fff;
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    margin: 0 auto;
+}
+.button-1:hover {
+    background-color: #02b8dd;
+    color: #fff;
+}
