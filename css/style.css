@@ -118,3 +118,25 @@ header nav ul li a {
     background-color: #02b8dd;
     color: #fff;
 }
+
+
+#features ul {
+    margin: 80px 0;
+}
+#features ul li {
+    width: 300px;
+    padding-top: 140px;
+    float: left;
+    margin-right: 10px;
+    text-align: center;
+}
+#features ul li.feature-1 {
+    background: url('../images/features-icon-1.png') no-repeat top center;
+}
+#features ul li.feature-2 {
+    background: url('../images/features-icon-2.png') no-repeat top center;
+}
+#features ul li.feature-3 {
+    background: url('../images/features-icon-3.png') no-repeat top center;
+}
+
